@@ -7,14 +7,15 @@
 
   h1 {
     font-family: Georgia, serif;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #ffffff;
   }
 
   article {
     border: 2px solid white;
-    margin: 25px 50px 75px 100px;
+    margin: 50px 50px 50px 100px;
     background-color: rgb(32, 32, 32);
     color: white;
+    opacity: .5;
   }
 
   
