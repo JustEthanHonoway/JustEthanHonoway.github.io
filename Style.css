@@ -12,9 +12,10 @@
 
   article {
     border: 2px solid white;
-    margin: 50px 50px 50px 100px;
+    margin: 100px 100px 100px 100px;
     background-color: rgb(32, 32, 32, .75);
     color: white;
+    padding: 30px;
   }
 
   
