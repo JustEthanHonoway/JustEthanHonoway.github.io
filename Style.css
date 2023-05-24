@@ -13,9 +13,8 @@
   article {
     border: 2px solid white;
     margin: 50px 50px 50px 100px;
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(32, 32, 32, .75);
     color: white;
-    opacity: .5;
   }
 
   
