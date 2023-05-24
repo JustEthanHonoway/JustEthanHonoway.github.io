@@ -10,9 +10,11 @@
     border-bottom: 1px solid #000;
   }
 
-  h1, h2, h3, p {
+  article {
     border: 2px solid white;
     margin: 25px 50px 75px 100px;
     background-color: rgb(32, 32, 32);
     color: white;
   }
+
+  
