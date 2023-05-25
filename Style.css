@@ -8,6 +8,7 @@
   h1 {
     font-family: Georgia, serif;
     border-bottom: 1px solid #ffffff;
+    font-weight: bold;
   }
 
   article {
@@ -18,4 +19,12 @@
     padding: 30px;
   }
 
+
+  h2 {
+    font-weight: bold;
+  }
+
+  h3 {
+    text-decoration: underline;
+  }
   
